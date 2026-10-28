@@ -1,73 +1,73 @@
 <p align="center">
-  <img src="assets/arsalan-wani-hero.svg" alt="Arsalan Wani — Data Analyst and Data Science Student" width="100%" />
+  <img src="assets/arsalan-wani-hero.svg" alt="Arsalan Wani — Data Analyst and Data Science Student" width="100%">
 </p>
 
-## About me
+<h2 align="left">About Me</h2>
 
-<img src="assets/profile-photo-circle.png" alt="Portrait of Arsalan Wani" width="160" align="left" />
+Hi, I'm **Arsalan Wani**, a **B.Sc. IT graduate** currently pursuing an **MSc in Data Science online at Chandigarh University**.
 
-Hello, I'm Arsalan. I'm an aspiring data analyst and MSc Data Science student at Chandigarh University, with a B.Sc. IT background.
+I'm building practical skills in data analysis and working on projects that turn raw data into useful insights. My current portfolio focuses on Excel dashboards, SQL practice, and e-commerce data analysis.
 
-I'm interested in transforming raw data into meaningful insights using spreadsheets, SQL, Python, data analysis, and visualization. My focus is on building practical projects and improving my analytical problem-solving skills — through data cleaning, SQL querying, Python-based analysis, and clear dashboards and charts.
+- **Career goal:** Data Analyst / Data Science
+- **Interested in:** Data cleaning, querying, exploratory analysis, and visualization
+- **Portfolio approach:** Practical projects, clear documentation, and honest reporting of results
 
-I'm early in my data analytics journey and learning in public: every project below is real work from my own repositories, described as it actually is.
+<h2>Technical Skills</h2>
 
-## Technical skills
-
-**Spreadsheets and data analysis**
-
-- Microsoft Excel — data cleaning, SUMIFS/COUNTIFS summaries, native charts, KPI dashboards
+**Spreadsheets and reporting**
+- Microsoft Excel — data cleaning, formulas, summaries, charts, and dashboard development where demonstrated in my projects
 
 **Querying and databases**
+- SQL — querying, filtering, aggregations, joins, and subqueries as demonstrated in my practice work
 
-- SQL (T-SQL / SQL Server) — filtering and sorting, aggregate functions, GROUP BY and HAVING, INNER / LEFT / RIGHT / FULL OUTER joins, subqueries
+**Python data analysis**
+- Python, Pandas, NumPy
 
-**Python and data analysis**
-
-- Python, pandas, NumPy — data cleaning and exploratory analysis
-
-**Data visualization**
-
-- Matplotlib, Seaborn — charts for analysis notebooks
+**Visualization**
+- Matplotlib, Seaborn
 
 **Tools**
+- Git and GitHub
 
-- Git, GitHub
+<h2>Featured Projects</h2>
 
-## Featured projects
+### 1. Excel Sales Dashboard
 
-[![Excel Sales Dashboard — Superstore](assets/project-superstore.svg)](https://github.com/arsalanwani/excel-Project-practice)
+A sales analysis and dashboard project built to organize sales data and present key metrics through visual summaries.
 
-- Cleaned a 51,290-row Superstore dataset (Jan 2011 – Dec 2014) and built a dashboard with 5 KPI cards and 7 native charts. Findings: $12,642,502 in sales, $1,467,457 in profit (11.6% margin); Tables was the only loss-making sub-category (−$64k); the 0% discount band ran at +25.3% margin versus −111% for the 51%+ band.
-- Note: summaries in this workbook use SUMIFS/COUNTIFS equivalents rather than PivotTables or slicers.
+- **Tool:** Microsoft Excel
+- **Focus:** Data preparation, sales summaries, dashboard layout, and charts
+- **Repository:** [Excel Project Practice](https://github.com/arsalanwani/excel-Project-practice)
 
-[![E-commerce Sales Analysis](assets/project-ecommerce.svg)](https://github.com/arsalanwani/E-commerce-Python-Data-Analytics)
+### 2. Olist E-commerce Data Analysis
 
-- Missing-value and duplicate checks, discount validation, group-by summaries, a monthly Net Amount trend, and correlation analysis — saved as a cleaned dataset with 5 charts (bar, pie, scatter, box, heatmap). Findings: 613 records have a negative Net Amount because the discount exceeded the gross amount, while the Net Amount formula itself is consistent throughout.
-- Note: the analysis notebooks and cleaned dataset are in the repo; the raw source file itself is not included.
+An e-commerce analysis project using the Olist dataset. The project explores order-related datasets and supports practice in data cleaning, validation, and exploratory analysis.
 
-[![SQL Learning Projects](assets/project-sql.svg)](https://github.com/arsalanwani/SQL-Learning)
+- **Tools:** Python and data analysis libraries, where used in the project
+- **Focus:** Understanding order, customer, payment, review, product, and seller data
+- **Repository:** [Browse my GitHub repositories](https://github.com/arsalanwani?tab=repositories)
 
-- 99 numbered business-oriented practice questions plus a second query file, in T-SQL (SQL Server) over customers, orders, products, employees, and books/borrowings tables — demonstrating filtering and sorting, aggregates, GROUP BY and HAVING, all major join types, and subqueries.
+### 3. SQL Learning Projects
 
-More of my work: [github.com/arsalanwani?tab=repositories](https://github.com/arsalanwani?tab=repositories)
+A collection of SQL exercises and practice work designed to build query-writing and analytical problem-solving skills.
 
-## What I'm learning
+- **Focus:** Filtering, aggregation, grouping, joins, and subqueries where included in the available SQL files
+- **Repository:** [Browse my GitHub repositories](https://github.com/arsalanwani?tab=repositories)
 
-- Practical data analysis and exploratory data analysis
-- SQL problem-solving
-- Python-based data manipulation
-- Dashboard design, including Power BI
+<h2>Currently Learning</h2>
 
-## GitHub stats
+- Strengthening SQL for data analyst interviews
+- Improving Python-based data analysis workflows
+- Building clear, useful Excel dashboards
+- Practicing exploratory data analysis and visualization
 
-![Arsalan Wani's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalanwani&show_icons=true&theme=dark&hide_border=true)
+<h2>Connect With Me</h2>
 
-## Connect with me
-
-- **GitHub:** [github.com/arsalanwani](https://github.com/arsalanwani)
-- **LinkedIn:** [linkedin.com/in/arsalan-shafi2002](https://www.linkedin.com/in/arsalan-shafi2002)
+<p>
+  <a href="https://github.com/arsalanwani">GitHub</a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/arsalan-shafi2002">LinkedIn</a>
+</p>
 
 <p align="center">
-  <img src="assets/arsalan-wani-footer.svg" alt="Arsalan Wani — Data Analytics" width="100%" />
+  <img src="assets/arsalan-wani-footer.svg" alt="Keep learning, keep analyzing" width="100%">
 </p>
